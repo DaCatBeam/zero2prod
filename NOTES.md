@@ -4,6 +4,7 @@
 * Lint with ```cargo clippy``` to lint
 * Format code with ```cargo fmt``` (newlines, extra whitespace, etc.)
 * Use ```cargo audit``` to scan the dependency tree for anything that has an open CVE
+* Use ```cargo expand``` with the nightly compiler to expand macros.
 
 # Current User Stories
 

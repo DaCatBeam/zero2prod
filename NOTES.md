@@ -14,3 +14,6 @@
 2) As a blog author,
    I want to send an email to all of my subscribers
    So that I can notify them when new content is published.
+
+### Implementation Strategy
+* Installed actix-web and tokio for web app framework setup
